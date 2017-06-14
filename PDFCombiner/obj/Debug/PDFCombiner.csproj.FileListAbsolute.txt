@@ -1,0 +1,15 @@
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\PDFCombiner.exe.config
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\PDFCombiner.exe
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\PDFCombiner.pdb
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\obj\Debug\PDFCombiner.csprojResolveAssemblyReference.cache
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\obj\Debug\PDFCombiner.Form1.resources
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\obj\Debug\PDFCombiner.Properties.Resources.resources
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\obj\Debug\PDFCombiner.csproj.GenerateResource.Cache
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\obj\Debug\PDFCombiner.exe
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\obj\Debug\PDFCombiner.pdb
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\PdfSharp.Charting.dll
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\PdfSharp.dll
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\PdfSharp.xml
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\PdfSharp.Charting.xml
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\de\PdfSharp.resources.dll
+\\nas3\users\jchavis\documents\visual studio 2015\Projects\PDFCombiner\PDFCombiner\bin\Debug\de\PdfSharp.Charting.resources.dll
